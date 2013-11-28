@@ -1,0 +1,5 @@
+#dit is een file waar in je bastandstypen of hele mappen door git kunt laten negeren.
+#met een # kun je commentaar in je .gitignore file zetten.
+
+**/bin/**
+**/obj/**
